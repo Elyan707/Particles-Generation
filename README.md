@@ -24,7 +24,7 @@ We have three ways to observe the K<sup>*</sup> as a peak in the invariant mass:
 
 ### Invariant mass of the decay products
 
-Since  K<sup>*</sup> decays in pairs of π<sup>+</sup>K<sup>-</sup> and π<sup>-</sup>K<sup>+</sup>, the most direct way we can observe it is by renconstructing the invariant mass of its decay products.
+Since  K<sup>*</sup> decays into pairs of π<sup>+</sup>K<sup>-</sup> and π<sup>-</sup>K<sup>+</sup>, the most direct way we can observe it is by renconstructing the invariant mass of its decay products.
 
 ### Difference between the invariant masses of particles with concordant and discordant charges
 
