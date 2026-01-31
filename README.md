@@ -36,7 +36,7 @@ This method is the same as the one before, but in this case we are only consider
 
 The peak in these graph represents the mass of the K<sup>\*</sup>, whereas the standard deviation represents half the decay width.
 
-![Invariant mass](invmass.png)
+![Invariant mass](invmass.pdf)
 
 
 
