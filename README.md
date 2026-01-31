@@ -28,7 +28,7 @@ Since  K<sup>*</sup> decays into pairs of π<sup>+</sup>K<sup>-</sup> and π<sup
 
 ### Difference between the invariant masses of particles with concordant and discordant charges
 
-The invariant mass obtained from particles with concordant charges is not related to the K<sup>\*</sup> in any way since K<sup>\*</sup> only decays into pair of kaon/pion with discorcant charges. On the other hand when we consider combinations of particles with discordant charges some of them are the result of the K<sup>\*</sup> decay and others are not. As a consequence by subtructing these invariant masses we get the K<sup>\*</sup> .
+The invariant mass obtained from particles with concordant charges is not related to the K<sup>\*</sup> in any way since K<sup>\*</sup> only decays into pair of kaons/pions with discorcant charges. On the other hand when we consider combinations of particles with discordant charges some of them are the result of the K<sup>\*</sup> decay and others are not. As a consequence by subtructing these invariant masses we get the K<sup>\*</sup> .
 
 ### Difference between the invariant masses of Kaons and Pions with concordant and discordant charges
 
